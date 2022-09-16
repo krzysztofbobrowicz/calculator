@@ -31,7 +31,7 @@ const operate = (operator, num1, num2) => {
     case '*':
       console.log(multiply(num1, num2));
       break;
+    default:
+      console.log('Sorry, there is something wrong with your statement.');
   }
 };
-
-operate('*', 5, 4);
