@@ -81,4 +81,5 @@ button:hover {
   border-radius: 15px;
   height: 50px;
   align-items: center;
+  text-align: right;
 }
